@@ -22,3 +22,16 @@ D:\dev\ai-discord>npx shadcn-ui@latest init
 √ Write configuration to components.json. Proceed? ... yes
 
 npx shadcn-ui@latest add -y button
+
+# Authentication
+
+Clerk setup: 
+https://clerk.com/ - login - add new application
+name: antonio-discord-clone - create - copy env to .env
+
+.env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+npm i @clerk/nextjs
+
