@@ -99,4 +99,8 @@ npx shadcn-ui@latest add -y select
 
 npx shadcn-ui@latest add -y command
 
+# Chat header
+
+npx shadcn-ui@latest add -y sheet
+
 
