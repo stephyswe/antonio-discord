@@ -40,3 +40,16 @@ npm i @clerk/nextjs
 npm i next-themes
 
 npx shadcn-ui@latest add -y dropdown-menu
+
+# Prisma & Planetscale setup
+
+npm i -D prisma
+npx prisma init
+
+<setup mysql - planetscale or elephantsql>
+<prisma models>
+
+npx prisma generate
+npx prisma db push
+
+npm i @prisma/client
