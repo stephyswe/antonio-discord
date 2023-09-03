@@ -94,3 +94,9 @@ npm i query-string
 # Channel creation
 
 npx shadcn-ui@latest add -y select
+
+# Search Server modal
+
+npx shadcn-ui@latest add -y command
+
+
