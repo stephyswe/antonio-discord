@@ -91,4 +91,6 @@ npm i zustand
 npx shadcn-ui@latest add -y avatar      
 npm i query-string
 
+# Channel creation
 
+npx shadcn-ui@latest add -y select
