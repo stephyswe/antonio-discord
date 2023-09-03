@@ -70,5 +70,9 @@ Overview: Get started -
 * setup App nextjs: files in commit
 Files: validate files are uploaded
 
+# Server Creation API
 
+npm i axios
+npm i uuid
+npm i -D @types/uuid
 
