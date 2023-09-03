@@ -82,3 +82,7 @@ npx shadcn-ui@latest add -y tooltip
 npx shadcn-ui@latest add -y separator
 npx shadcn-ui@latest add -y scroll-area
 
+# Create Server modal
+
+npm i zustand
+
