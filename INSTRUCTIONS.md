@@ -59,3 +59,16 @@ npm i @prisma/client
 npx shadcn-ui@latest add -y dialog
 npx shadcn-ui@latest add -y input
 npx shadcn-ui@latest add -y form
+
+# UploadThing setup
+
+https://uploadthing.com/ 
+Create: - name: antonio-discord - url: <EMPTY> - create App
+API Keys: copy env keys to .env
+Overview: Get started - 
+* install the packages - `npm i uploadthing @uploadthing/react react-dropzone`
+* setup App nextjs: files in commit
+Files: validate files are uploaded
+
+
+
