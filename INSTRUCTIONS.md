@@ -53,3 +53,9 @@ npx prisma generate
 npx prisma db push
 
 npm i @prisma/client
+
+# Initial modal UI
+
+npx shadcn-ui@latest add -y dialog
+npx shadcn-ui@latest add -y input
+npx shadcn-ui@latest add -y form
