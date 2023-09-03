@@ -35,3 +35,8 @@ CLERK_SECRET_KEY=
 
 npm i @clerk/nextjs
 
+# Dark & Light Theme setup
+
+npm i next-themes
+
+npx shadcn-ui@latest add -y dropdown-menu
