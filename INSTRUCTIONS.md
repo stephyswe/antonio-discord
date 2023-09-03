@@ -86,3 +86,9 @@ npx shadcn-ui@latest add -y scroll-area
 
 npm i zustand
 
+# Manage members
+
+npx shadcn-ui@latest add -y avatar      
+npm i query-string
+
+
