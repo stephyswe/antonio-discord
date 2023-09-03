@@ -76,3 +76,9 @@ npm i axios
 npm i uuid
 npm i -D @types/uuid
 
+# Navigation sidebar
+
+npx shadcn-ui@latest add -y tooltip
+npx shadcn-ui@latest add -y separator
+npx shadcn-ui@latest add -y scroll-area
+
