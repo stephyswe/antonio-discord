@@ -103,4 +103,7 @@ npx shadcn-ui@latest add -y command
 
 npx shadcn-ui@latest add -y sheet
 
+# Prisma schema completion
 
+npx prisma generate
+npx prisma db push
