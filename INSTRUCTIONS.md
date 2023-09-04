@@ -123,3 +123,7 @@ npx prisma studio
 
 npx shadcn-ui@latest add -y popover
 npm i emoji-mart @emoji-mart/data @emoji-mart/react
+
+# Chat Messages component
+
+npm i @tanstack/react-query
