@@ -107,3 +107,10 @@ npx shadcn-ui@latest add -y sheet
 
 npx prisma generate
 npx prisma db push
+
+# Socket IO setup
+
+npm i socket.io
+npm i socket.io-client
+npx shadcn-ui@latest add -y badge 
+
