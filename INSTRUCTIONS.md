@@ -131,3 +131,19 @@ npm i @tanstack/react-query
 # Chat Item component
 
 npm i date-fns
+
+# Video Calls
+
+LiveKit setup:
+https://livekit.io/ - 
+
+NEXT_PUBLIC_LIVEKIT_URL - copy WebSocket URL
+LIVEKIT_API_SECRET, LIVEKIT_API_KEY - Settings - Add new key - generate
+
+.env
+LIVEKIT_API_KEY=APILTKzrGCipZ4D
+LIVEKIT_API_SECRET=wSTkqwE4DAd8alYyAGWwOj1M2HrCn0ueGmfmbmjbdps
+NEXT_PUBLIC_LIVEKIT_URL=wss://antonio-discord-3b3kec9h.livekit.cloud
+
+click documentation - next13 - copy npm 
+npm install livekit-server-sdk livekit-client @livekit/components-react @livekit/components-styles --save
