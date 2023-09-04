@@ -46,7 +46,7 @@ npx shadcn-ui@latest add -y dropdown-menu
 npm i -D prisma
 npx prisma init
 
-<setup mysql - planetscale or elephantsql>
+<setup mysql - planetscale or aiven>
 <prisma models>
 
 npx prisma generate
@@ -114,3 +114,7 @@ npm i socket.io
 npm i socket.io-client
 npx shadcn-ui@latest add -y badge 
 
+# Messages API
+
+* create message
+npx prisma studio
