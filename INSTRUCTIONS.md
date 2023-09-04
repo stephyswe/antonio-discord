@@ -118,3 +118,8 @@ npx shadcn-ui@latest add -y badge
 
 * create message
 npx prisma studio
+
+# Emoji bar
+
+npx shadcn-ui@latest add -y popover
+npm i emoji-mart @emoji-mart/data @emoji-mart/react
